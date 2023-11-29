@@ -1,0 +1,15 @@
+.anger {
+    font-size: 3rem;
+    width: 75%;
+    background-color: aquamarine;
+    border: 5px solid green;
+}
+
+h1 {
+
+    font-size: 4rem;
+    background-color: orangered;
+    color: yellow;
+    width: 75%;
+    align: center;
+}
